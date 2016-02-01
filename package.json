@@ -1,0 +1,20 @@
+{
+  "name": "ember-eslint-test-generator",
+  "version": "1.0.0",
+  "description": "The test generators extracted from the ember-cli-eslint package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "ember-eslint",
+    "test-generator"
+  ],
+  "author": "Jonathan Samines <jonathan.samines@xoom.com> (jonathansamines.com)",
+  "license": "MIT",
+  "engines": ">=0.12.7",
+  "dependencies": {
+    "js-string-escape": "^1.0.0"
+  }
+}
