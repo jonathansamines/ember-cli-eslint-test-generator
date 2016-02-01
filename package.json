@@ -4,7 +4,8 @@
   "description": "The test generators extracted from the ember-cli-eslint package.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha ./tests/**",
+    "test:watch": "mocha -w ./tests/**"
   },
   "keywords": [
     "eslint",
@@ -16,5 +17,9 @@
   "engines": ">=0.12.7",
   "dependencies": {
     "js-string-escape": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
   }
 }
