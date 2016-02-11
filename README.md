@@ -6,7 +6,7 @@ A simple package which allows you to set a default test generator to your ember-
 1. Install the package
 
     ```bash
-      npm install --save-dev ember-eslint-test-generator
+      npm install --save-dev ember-cli-eslint-test-generator
     ```
 
 2. Update your `ember-cli-build.js` file and add this configuration.

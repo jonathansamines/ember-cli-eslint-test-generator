@@ -1,5 +1,5 @@
 {
-  "name": "ember-eslint-test-generator",
+  "name": "ember-cli-eslint-test-generator",
   "version": "1.0.0",
   "description": "The test generators extracted from the ember-cli-eslint package.",
   "main": "index.js",
